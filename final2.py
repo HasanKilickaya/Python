@@ -1,4 +1,6 @@
+#HASAN KILICKAYA
 #1. Soru
+
 with open('text1.txt') as f:
     list1 = []
     list2 = []
